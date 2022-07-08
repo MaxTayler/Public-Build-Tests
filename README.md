@@ -2,5 +2,5 @@
 
 Folder For Public Build Tests of Game and Software
 
-Folder
-adwt_html5
+Included inFolder
+adwt_html5 - simple web game
